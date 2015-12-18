@@ -1,0 +1,2 @@
+AppDelegate
+这个目录下放的是AppDelegate.h(.m)文件，是整个应用的入口文件，所以单独拿出来。
